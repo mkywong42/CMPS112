@@ -1,0 +1,12 @@
+Matthew Lo
+mamlo
+CMPS 112
+ASG4 - Prolog Flight
+README
+
+Writing recursion in prolog was very confusing for me. I also could not get test5 file to print out the error message I wanted.
+However, Professor Mackey said that any output for that was ok. It was hard to check manually whether a flight was possible in
+24 hours or not. I kind of just had to hope that my algorithm was correct. It was hard to come up with an algorithm, but
+graphpaths.pl from the Examples helped a lot. At first, my algorithm was finding the wrong connecting flights. 
+But then I realized I needed to pass the wanted departure time of the connecting flight into the argument. Google said the
+radius of the Earth is 3959, but haversine.perl used 3961, so i decided to use 3961.

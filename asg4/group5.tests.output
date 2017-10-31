@@ -1,0 +1,19 @@
+GNU Prolog 1.4.4 (64 bits)
+Compiled Nov  6 2014, 18:04:28 with gcc
+By Daniel Diaz
+Copyright (C) 1999-2013 Daniel Diaz
+| ?- $Id: group5.tests,v 1.2 2016-11-21 14:06:16-08 - - $
+
+yes
+| ?- compiling /afs/cats.ucsc.edu/users/x/mamlo/cs112/asg4/database.pl for byte code...
+/afs/cats.ucsc.edu/users/x/mamlo/cs112/asg4/database.pl compiled, 75 lines read - 11159 bytes written, 8 ms
+
+(1 ms) yes
+| ?- compiling /afs/cats.ucsc.edu/users/x/mamlo/cs112/asg4/functions.pl for byte code...
+/afs/cats.ucsc.edu/users/x/mamlo/cs112/asg4/functions.pl compiled, 176 lines read - 15373 bytes written, 8 ms
+
+(2 ms) yes
+| ?- Error: Start terminal and Destination terminal are the same.
+
+no
+| ?- 

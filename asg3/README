@@ -1,0 +1,9 @@
+I was able to complete this assignment. 
+It was pretty hard to implement the decompressor.
+It was hard to tell whether the bugs I had stemmed from my compressor, or my decompressor.
+It was also very hard to tell what the output was suppsoed to be, so it was hard to debug.
+I learned from Piazza that we should write an extra '1' after writing the tree to the file, which helps the program know if we have a complete tree or not.
+It was hard to get the output to match phuffman.perl exactly
+Converting 8r12 to x0A was a challenge, but I believe I found a sufficient solution.
+
+Thank you!

@@ -1,0 +1,18 @@
+; Matthew Lo
+; mamlo@ucsc.edu
+; 1464155
+; CMPS 112
+; Spring 2017
+
+I finished files 1-13.
+Did not get to array sort, etc. 
+I believe that functionally, much of my code works, 
+but I just did not have enough time to implement 
+the functions to make arraysort. 
+I had one issue in getting user input. 
+I could not increment inputcount properly, 
+thus I could never reach the correct part of arraysort.
+I also could not scan lines such as (2 (label))
+, so my program crashes when it reaches labels 
+such as "done" which have no statements attached to it.
+Thank you for taking the time to read this. 
